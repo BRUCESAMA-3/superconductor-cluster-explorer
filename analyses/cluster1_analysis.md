@@ -3,10 +3,9 @@
 
 ### 1) SUMMARY TABLE
 
-| Cluster  | # Compounds | Top 5 Elements                 | Tc Range (K) | Mean Tc (K) | Family Distribution                     | Notes                                   |
-|----------|-------------|--------------------------------|--------------|-------------|-----------------------------------------|-----------------------------------------|
-| Cluster1 | 64          | H (100%), Fe (98%), As (90%), O (75%), La (27%) | 20.0–147.0   | 40.5        | P7: 89%, C7: 6%, C6: 5%                 | Primarily doped topological insulators (LaFeAs-based); presence of hydrides (H3S) contributing to high Tc. |
-
+| Cluster | # Compounds | Top 5 Elements | Tc Range (K) | Mean Tc (K) | Family Distribution | Notes |
+|---------|-------------|----------------|--------------|-------------|-------------------|-------|
+| Cluster 1 | 64 | H (100%), Fe (95%), As (89%), O (77%), La (31%) | 20.3–147.0 | 42.1 | U10: 75%, C7: 9%, U11: 16% | Primarily iron pnictides (1111-type REFeAsO1-xHx and 122-type); high-pressure hydrides (H3S, H2S) contributing to highest Tc values; Li-Fe-Se chalcogenides present. |
 ### 2) **Why this cluster groups together:**
 
    - **Structural Analysis:** The dominant structural motif among these compounds is the layered arrangement, commonly found in the iron pnictides like the 1111 structure (LnFeAsO) and similar structures with hydrogen incorporation (LnFeAsOH). These structures typically feature alternating conducting FeAs layers and charge reservoir layers enhanced by the presence of oxygen or hydrogen.
